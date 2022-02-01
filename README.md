@@ -1,4 +1,4 @@
-# Fix-Datamine-Virtuoso                                                                                         <a href="https://github.com/Loogosh/Fix-Datamine-Virtuoso-ru">                                    RU</a>/<a href="https://github.com/Loogosh/Fix-Datamine-Virtuoso">EU</a>
+# Фикс-Виртуозная-добыча-данных                                                                                       <a href="https://github.com/Loogosh/Fix-Datamine-Virtuoso-ru">                                    RU</a>/<a href="https://github.com/Loogosh/Fix-Datamine-Virtuoso">EU</a>
 Для того чтобы исправить данный перк нужно скачать save editor C<a href="https://github.com/PixelRick/CyberpunkSaveEditor/releases/download/v0.5.4-alpha.14b/CPSE_v0.5.4-alpha.14b.zip" target="_blank" title="download ">CPSE_v0.5.4-alpha.14 b </a>. Cсылка на репозиторий данной программы https://github.com/PixelRick/CyberpunkSaveEditor/releases
 
 Далее нам нужно открыть программу и выбрать директорию игры данной кнопкой, далее выбираем нужное вам сохранение (можно посмотреть в разделе загрузки в игре).
